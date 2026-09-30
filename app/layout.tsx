@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ['latin'] })
 const _instrumentSerif = Instrument_Serif({ subsets: ['latin'], weight: '400' })
 
 export const metadata: Metadata = {
-  title: 'ATELIER — Perfectly Fashionable Shoes',
+  title: 'himm.craft — Handcrafted Leather Footwear',
   description:
     'Where timeless style meets modern comfort. Handcrafted leather sandals, made to be worn for years.',
   generator: 'v0.app',
