@@ -10,23 +10,8 @@ export const metadata: Metadata = {
   title: 'himm.craft — Handcrafted Leather Footwear',
   description:
     'Where timeless style meets modern comfort. Handcrafted leather sandals, made to be worn for years.',
-  generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/Logo.png', // <--- ชี้ไปที่ไฟล์ Logo.png ของคุณตรงๆ เลยครับ
   },
 }
 
